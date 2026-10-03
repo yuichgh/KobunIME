@@ -56,3 +56,10 @@ Issuesは公開されます。個人情報、非公開の文章、学習ファ�
 本リポジトリは配布と紹介用です。IMEの全ソースコード、原コーパス、教師例、個人の学習データは含みません。インストーラと入力ソース登録用補助プログラムのコードは `installer-source/` で確認できます。
 
 本プロジェクトはApple、国立国語研究所、OpenCHJ、ONCOJ、Wikisource等による推奨・認定を受けたものではありません。
+
+## ダウンロード
+
+[最新版のダウンロードページ](https://github.com/yuichgh/KobunIME/releases)
+
+ページ内の「Assets」から
+`KobunIME-0.1.16-macOS-arm64.zip` をダウンロードしてください。
