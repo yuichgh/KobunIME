@@ -8,7 +8,7 @@
 
 <img width="767" height="157" alt="スクリーンショット 2026-10-03 18 09 28" src="https://github.com/user-attachments/assets/d98a273d-ca55-457c-9777-d5150fc451b2" />
 
-使用例
+使用例　-源氏物語桐壺より
 
 ## 主な機能
 
