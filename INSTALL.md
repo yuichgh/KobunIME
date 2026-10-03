@@ -21,8 +21,6 @@ Appleの説明： https://support.apple.com/ja-jp/102445
 
 インストーラは続行を選んだ後に、**同梱アプリをコピーした一時フォルダの内部だけ**に `xattr -cr` を実行します。隔離属性（quarantine）とFinder属性等を除去する処理です。公開用ZIP内の `InputSources` 補助プログラムの隔離属性も続行後に除去します。Developer IDによる開発元確認やAppleの安全性検査の代わりにはなりません。ad-hoc署名検証はアプリの署名済み内容の整合性確認です。
 
-補助プログラムを含め、ブラウザからダウンロードした状態での実機導入は、公開前に別のMacでも確認することを推奨します。手元でのZIP展開・署名検証のみではGatekeeperの全経路を確認できません。
-
 ## 更新とバージョン確認
 
 更新時も同じインストーラを使います。旧版は `~/Library/Application Support/KobunIME/Backups/` に退避します。学習ファイルは維持します。
